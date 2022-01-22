@@ -1,14 +1,17 @@
 # Co-Random
 
-## Video URLs:
-- The functionality of the e-commerce back end:
-- All of the technical acceptance criteria:
-- How to create the schema from the MySQL shell:
-- How to seed the database from the command line:
-- How to start the application’s server:
-- GET routes for all categories, all products, and all tags being tested in Insomnia:
-- GET routes for a single category, a single product, and a single tag being tested in Insomnia:
-- POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia:
+## Video URLs
+## Technical setup: https://watch.screencastify.com/v/zDgoOqu3MPaXedwno0MZ
+- The functionality of the e-commerce back end
+- All of the technical acceptance criteria
+## MySQL: https://watch.screencastify.com/v/rlxeqaaPBhloelw3cpQQ
+- How to create the schema from the MySQL shell
+- How to seed the database from the command line
+- How to start the application’s server
+## Insomnia: https://watch.screencastify.com/v/3SkQ8vZoFfjXwoHlJZBK
+- GET routes for all categories, all products, and all tags being tested in Insomnia
+- GET routes for a single category, a single product, and a single tag being tested in Insomnia
+- POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia
 
 ## GitHub URL:
 https://github.com/victoriatsitskishvili/Co-Random
