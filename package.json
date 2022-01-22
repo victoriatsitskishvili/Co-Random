@@ -2,6 +2,7 @@
   "dependencies": {
     "dotenv": "^14.2.0",
     "express": "^4.17.2",
+    "mysql2": "^2.3.3",
     "sequelize": "^6.13.0"
   },
   "name": "co-random",
@@ -9,7 +10,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
   },
   "repository": {
     "type": "git",
